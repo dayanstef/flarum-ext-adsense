@@ -2,7 +2,7 @@
   "name": "dayanstef/flarum-ext-adsense",
   "description": "Google AdSense extension for Flarum",
   "type": "flarum-extension",
-  "keywords": ["formatting"],
+  "keywords": ["advertising"],
   "license": "MIT",
   "authors": [
     {
@@ -18,7 +18,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Flarum\\Adsense\\": "src/"
+      "Dayanstef\\Adsense\\": "src/"
     }
   },
   "extra": {
