@@ -10,6 +10,7 @@
       "email": "dayanstef@gmail.com"
     }
   ],
+  "version": "dev-master",
   "support": {
     "source": "https://github.com/dayanstef/flarum-ext-adsense"
   },
