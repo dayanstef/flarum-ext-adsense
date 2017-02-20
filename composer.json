@@ -31,7 +31,9 @@
       "title": "AdSense",
       "icon": {
         "image": "icon.svg",
-        "backgroundColor": "#FECC4D"
+        "backgroundColor": "#f1f1f0",
+        "backgroundSize": "cover",
+        "backgroundPosition": "center"
       }
     }
   }
