@@ -2,7 +2,7 @@
   "name": "dayanstef/flarum-ext-adsense",
   "description": "Google AdSense extension for Flarum",
   "type": "flarum-extension",
-  "keywords": ["advertising"],
+  "keywords": ["advertising", "flarum", "dayanstef", "adsense"],
   "license": "MIT",
   "authors": [
     {
@@ -10,7 +10,6 @@
       "email": "dayanstef@gmail.com"
     }
   ],
-  "version": "dev-master",
   "support": {
     "source": "https://github.com/dayanstef/flarum-ext-adsense"
   },
@@ -23,9 +22,6 @@
     }
   },
   "extra": {
-    "branch-alias": {
-      "dev-master": "0.1.x-dev"
-    },
     "flarum-extension": {
       "title": "AdSense",
       "icon": {
