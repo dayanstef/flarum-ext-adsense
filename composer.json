@@ -2,7 +2,12 @@
   "name": "dayanstef/flarum-ext-adsense",
   "description": "Google AdSense extension for Flarum",
   "type": "flarum-extension",
-  "keywords": ["advertising", "flarum", "dayanstef", "adsense"],
+  "keywords": [
+    "advertising",
+    "flarum",
+    "dayanstef",
+    "adsense"
+  ],
   "license": "MIT",
   "authors": [
     {
@@ -25,7 +30,7 @@
     "flarum-extension": {
       "title": "AdSense",
       "icon": {
-        "image": "icon.png",
+        "image": "icon.svg",
         "backgroundColor": "#FECC4D"
       }
     }
